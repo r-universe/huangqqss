@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "garray"]
+	path = garray
+	url = https://github.com/huangqqss/garray
+	shallow = true
+	registered = true
